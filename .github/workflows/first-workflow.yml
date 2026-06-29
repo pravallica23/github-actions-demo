@@ -10,5 +10,5 @@ jobs:
     steps:
 
       - name: Print Welcome Message
-        run: echo "Welcome to GitHub Actions sucessfully"
-        
+        run: echo "Welcome to GitHub Actions Fundamentals"
+
